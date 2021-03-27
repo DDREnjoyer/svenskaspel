@@ -1,2 +1,2 @@
 # svenskaspel
-Gamla svenska spel
+Gamla svenska spel, kollektiviserade åt folket <3
